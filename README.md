@@ -8,5 +8,6 @@ The purpose of the application was to have a list of the last week more trending
 
 Also the user needs to have the ability to filter by programming language and starred/vote for those repos.
 
+App was made using Hooks , Material-UI library and of course REACT.
 
 
